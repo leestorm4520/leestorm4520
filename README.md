@@ -92,6 +92,6 @@
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
 <a href="#" target="_blank">
-  <img src="svg/leestorm4520-quotes.svg" width="846" height="150" alt="johnle-official" />
+  <img src="svg/leestorm4520-quotes.svg" width="1000" height="400" alt="johnle-official" />
 </a>
 

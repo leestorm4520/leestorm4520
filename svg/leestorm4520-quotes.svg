@@ -22,14 +22,14 @@
         .quotes-vi {
           font-size: 18px;
         }
-        .trungquandev-signature {
+        .johnle-signature {
           font-size: 16px;
         }
 			</style>
 
 			<div class="container">
         <div class="quotes-eng">"After a day! We've learned something new? Or become a copy of yesterday?"</div>
-        <div class="John Le-signature">-John Le Official-</div>
+        <div class="johnle-signature">-John Le Official-</div>
       </div>
 		</div>
 	</foreignObject>
